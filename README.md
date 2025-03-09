@@ -2,7 +2,6 @@
 - 👀 I’m interested in education, data analytics, and machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analysis and visualization for ed-tech and SaaS industries 
-- 📫 Reach me at (https://www.linkedin.com/in/margarethaip/)
 - ⚡ Fun fact: I love pilates!
 
 <!---
